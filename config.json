@@ -1,0 +1,9 @@
+{
+    "app_name": "Gururaj Portfolio",
+    "db_host": "RDS_ENDPOINT",
+    "db_user": "appuser",
+    "db_password": "StrongPassword!",
+    "db_name": "portfolio",
+    "s3_bucket": "gururaj-portfolio-assets"
+  }
+  
